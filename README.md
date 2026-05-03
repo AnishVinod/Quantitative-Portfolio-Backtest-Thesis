@@ -20,8 +20,8 @@ The diversified mix ended up beating the Nifty 50 by about 54% in total returns.
 3. Efficiency: The Sharpe Ratio of 0.90 shows the strategy was about twice as efficient as just holding the index.
 
 ### Technical side
-I used 'yfinance' for the data and 'pandas' for the math. I used Gemini as a co-pilot to help me debug the loops and get the plotting right, which saved a lot of time on the coding side.
+I used `yfinance` for the data and `pandas` for the math. I used Gemini as a co-pilot to help me debug the loops and get the plotting right, which saved a lot of time on the coding side.
 
 ### Files in repo
-* 'quantitative_thesis.pdf' - The full research write-up
-* 'backtest_engine.py' - The Python script used for the calculations
+* `quantitative_thesis.pdf` - The full research write-up
+* `backtest_engine.py` - The Python script used for the calculations
